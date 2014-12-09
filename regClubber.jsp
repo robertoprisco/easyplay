@@ -1,7 +1,7 @@
 <%@ include file="header.jspf" %>
 
  <div id="principale"> 
-   <a href="index.jsp" class="Normale">Home</a><a href="about.jsp" class="Normale">About</a>
+   <a href="index.html" class="Normale">Home</a><a href="help.jsp" class="Normale">About</a>
 
 <br><br><br><br>
 
@@ -22,6 +22,10 @@ Capacidad:<input type="number" name="capacity" min="1">
                  <br><br>
 
 Correo Electrónico:<input type="text" name="email">
+
+                 <br><br>
+
+Descripción (opcional) : <textarea name="textarea" style="width:250px;height:150px;"></textarea>
 
                  <br><br>
 
