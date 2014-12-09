@@ -1,0 +1,25 @@
+
+Pagine del sito:
+
+index.jsp:
+Log-in o indirizzamento a pagina di registrazione
+
+reg.jsp:
+Scelta del tipo di account(Artista/Club)
+
+regArt.jsp:
+Registrazione artista
+
+regClubber.jsp:
+Registrazione club
+
+about.jsp:
+About easyplay
+
+home.jsp:
+Club: Sezione con ultimi artisti iscritti. Cerca artista, con vari filtri. Ultime attività.
+Artista: Sezione con ultime notizie dei Club. Cerca eventi, con vari filtri. Ultime attività.
+
+my_page.jsp:
+Pagina personale con foto, descrizione e varie informazioni sia per un club che per un artista.
+
