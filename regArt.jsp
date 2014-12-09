@@ -31,6 +31,11 @@ Género Musical:
 
                  <br><br>
 
+Descripción (opcional) : <textarea name="textarea" style="width:250px;height:150px;"></textarea>
+
+                 <br><br>
+
+
 Alias nombre:<input type="text" name="name">
 
                  <br><br>
