@@ -1,7 +1,7 @@
 <%@ include file="header.jspf" %>
 
  <div id="principale"> 
-   <a href="index.html" class="Normale">Home</a><a href="help.jsp" class="Normale">About</a>
+   <a href="index.jsp" class="Normale">Home</a><a href="about.jsp" class="Normale">About</a>
 
 <br><br><br><br>
 
